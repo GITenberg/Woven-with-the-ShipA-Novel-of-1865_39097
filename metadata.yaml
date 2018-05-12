@@ -39,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5591
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39097#Woven-with-the-ShipA-Novel-of-1865
 gutenberg_issued: '2012-03-10'
 gutenberg_type: Text
 identifiers:

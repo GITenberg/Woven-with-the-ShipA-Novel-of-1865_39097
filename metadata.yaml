@@ -1,0 +1,63 @@
+_repo: Woven-with-the-ShipA-Novel-of-1865_39097
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+  - agent_name: Crawford, Will
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '33839'
+    url: http://www.gutenberg.org/2009/agents/33839
+  - agent_name: Leyendecker, Frank X.
+    birthdate: 1877
+    deathdate: 1924
+    gutenberg_agent_id: '33711'
+    url: http://www.gutenberg.org/2009/agents/33711
+  - agent_name: Glackens, William J.
+    aliases:
+    - Glackens, W.
+    - Glackens, William
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '31865'
+    url: http://www.gutenberg.org/2009/agents/31865
+    wikipedia: http://en.wikipedia.org/wiki/William_Glackens
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_issued: '2012-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39097'
+  lccn: 02023905
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcsh 'War stories'
+- !lcc 'PS'
+tableOfContents: Woven with the ship -- A vaudeville turn -- The last tribute to his
+  genius -- In Oklahoma -- Passing the love of woman -- The final propositions --
+  The captain of H.B.M. ship Diamond Rock -- "When lovely woman stoops to folly" --
+  Saved by her slipper -- "Sonny Boy's" diary -- The amazing yarn of the bo's'n's
+  mate -- The disembodied spirit.
+title: "Woven with the Ship: A Novel of 1865\r\nTogether with certain other veracious\
+  \ tales of various sorts"
+url: http://www.gutenberg.org/ebooks/39097
